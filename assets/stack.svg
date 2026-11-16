@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="496" viewBox="0 0 1000 496" role="img" aria-labelledby="t d">
+<title id="t">Technology stack</title>
+<desc id="d">Technologies Hossein works with. Markup and logic: HTML5, CSS3, JavaScript. Styling: Sass, Tailwind CSS. Workflow: Git, GitHub. Design: Figma, Photoshop.</desc>
+<style>
+text{font-family:'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif}
+.m{font-family:'JetBrains Mono','SF Mono',SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace}
+
+</style>
+<rect x="0.75" y="0.75" width="482.5" height="266.5" rx="10" fill="#111116" stroke="#2A2A33" stroke-width="1.5"/>
+<text class="m" x="28" y="42" font-size="20" fill="#8B8B9A">markup and logic</text>
+<rect x="420" y="33" width="36" height="3" fill="#FF2A4D"/>
+<rect x="28" y="68" width="48" height="48" rx="8" fill="#09090B" stroke="#FF2A4D" stroke-opacity=".7" stroke-width="1.5"/>
+<text class="m" x="52" y="99" font-size="21" font-weight="700" fill="#FF2A4D" text-anchor="middle">H5</text>
+<text x="96" y="101" font-size="27" font-weight="500" fill="#ECECF1">HTML5</text>
+<rect x="28" y="132" width="48" height="48" rx="8" fill="#09090B" stroke="#FF2A4D" stroke-opacity=".7" stroke-width="1.5"/>
+<text class="m" x="52" y="163" font-size="21" font-weight="700" fill="#FF2A4D" text-anchor="middle">C3</text>
+<text x="96" y="165" font-size="27" font-weight="500" fill="#ECECF1">CSS3</text>
+<rect x="28" y="196" width="48" height="48" rx="8" fill="#09090B" stroke="#FF2A4D" stroke-opacity=".7" stroke-width="1.5"/>
+<text class="m" x="52" y="227" font-size="21" font-weight="700" fill="#FF2A4D" text-anchor="middle">JS</text>
+<text x="96" y="229" font-size="27" font-weight="500" fill="#ECECF1">JavaScript</text>
+<rect x="516.75" y="0.75" width="482.5" height="266.5" rx="10" fill="#111116" stroke="#2A2A33" stroke-width="1.5"/>
+<text class="m" x="544" y="42" font-size="20" fill="#8B8B9A">styling</text>
+<rect x="936" y="33" width="36" height="3" fill="#8B5CF6"/>
+<rect x="544" y="68" width="48" height="48" rx="8" fill="#09090B" stroke="#8B5CF6" stroke-opacity=".7" stroke-width="1.5"/>
+<text class="m" x="568" y="99" font-size="21" font-weight="700" fill="#8B5CF6" text-anchor="middle">Sa</text>
+<text x="612" y="101" font-size="27" font-weight="500" fill="#ECECF1">Sass</text>
+<rect x="544" y="132" width="48" height="48" rx="8" fill="#09090B" stroke="#8B5CF6" stroke-opacity=".7" stroke-width="1.5"/>
+<text class="m" x="568" y="163" font-size="21" font-weight="700" fill="#8B5CF6" text-anchor="middle">Tw</text>
+<text x="612" y="165" font-size="27" font-weight="500" fill="#ECECF1">Tailwind CSS</text>
+<rect x="0.75" y="292.75" width="482.5" height="202.5" rx="10" fill="#111116" stroke="#2A2A33" stroke-width="1.5"/>
+<text class="m" x="28" y="334" font-size="20" fill="#8B8B9A">workflow</text>
+<rect x="420" y="325" width="36" height="3" fill="#38BDF8"/>
+<rect x="28" y="360" width="48" height="48" rx="8" fill="#09090B" stroke="#38BDF8" stroke-opacity=".7" stroke-width="1.5"/>
+<text class="m" x="52" y="391" font-size="21" font-weight="700" fill="#38BDF8" text-anchor="middle">Gt</text>
+<text x="96" y="393" font-size="27" font-weight="500" fill="#ECECF1">Git</text>
+<rect x="28" y="424" width="48" height="48" rx="8" fill="#09090B" stroke="#38BDF8" stroke-opacity=".7" stroke-width="1.5"/>
+<text class="m" x="52" y="455" font-size="21" font-weight="700" fill="#38BDF8" text-anchor="middle">Gh</text>
+<text x="96" y="457" font-size="27" font-weight="500" fill="#ECECF1">GitHub</text>
+<rect x="516.75" y="292.75" width="482.5" height="202.5" rx="10" fill="#111116" stroke="#2A2A33" stroke-width="1.5"/>
+<text class="m" x="544" y="334" font-size="20" fill="#8B8B9A">design</text>
+<rect x="936" y="325" width="36" height="3" fill="#FF2A4D"/>
+<rect x="544" y="360" width="48" height="48" rx="8" fill="#09090B" stroke="#FF2A4D" stroke-opacity=".7" stroke-width="1.5"/>
+<text class="m" x="568" y="391" font-size="21" font-weight="700" fill="#FF2A4D" text-anchor="middle">Fg</text>
+<text x="612" y="393" font-size="27" font-weight="500" fill="#ECECF1">Figma</text>
+<rect x="544" y="424" width="48" height="48" rx="8" fill="#09090B" stroke="#FF2A4D" stroke-opacity=".7" stroke-width="1.5"/>
+<text class="m" x="568" y="455" font-size="21" font-weight="700" fill="#FF2A4D" text-anchor="middle">Ps</text>
+<text x="612" y="457" font-size="27" font-weight="500" fill="#ECECF1">Photoshop</text>
+
+</svg>

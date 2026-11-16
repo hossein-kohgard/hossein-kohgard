@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="200" viewBox="0 0 1000 200" role="img" aria-labelledby="t d">
+<title id="t">guess-my-number repository card</title>
+<desc id="d">guess-my-number. A number guessing game that practises JavaScript logic and updating the page.</desc>
+<style>
+text{font-family:'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif}
+.m{font-family:'JetBrains Mono','SF Mono',SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace}
+
+</style>
+<defs><pattern id="pg" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#fff" stroke-opacity=".055"/></pattern><linearGradient id="pf" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fff"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient><mask id="pm"><rect width="1000" height="200" fill="url(#pf)"/></mask></defs>
+<rect x="0.75" y="0.75" width="998.5" height="198.5" rx="10" fill="#111116" stroke="#2A2A33" stroke-width="1.5"/>
+<rect x="1" y="1" width="998" height="198" rx="10" fill="url(#pg)" mask="url(#pm)"/>
+<rect x="0" y="28" width="5" height="52" fill="#FF2A4D"/>
+<text class="m" x="44" y="68" font-size="36" font-weight="700" fill="#ECECF1">guess-my-number</text>
+<text x="44" y="106" font-size="25" fill="#8B8B9A">A number guessing game that practises</text>
+<text x="44" y="138" font-size="25" fill="#8B8B9A">JavaScript logic and updating the page.</text>
+<text class="m" x="44" y="176" font-size="18" fill="#38BDF8" fill-opacity=".85">github.com/hossein-kohgard/guess-my-number</text>
+<rect x="796" y="36" width="168" height="48" rx="6" fill="none" stroke="#FF2A4D" stroke-width="1.5"/>
+<text class="m" x="822" y="68" font-size="21" fill="#FF2A4D">view repo</text>
+<path d="M932 52l10 8-10 8" fill="none" stroke="#FF2A4D" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

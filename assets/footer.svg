@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="280" viewBox="0 0 1000 280" role="img" aria-labelledby="t d">
+<title id="t">Still compiling.</title>
+<desc id="d">Closing banner with the text Still compiling. and a thin red line that slowly pulses across the bottom edge.</desc>
+<style>
+text{font-family:'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif}
+.m{font-family:'JetBrains Mono','SF Mono',SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace}
+.pulse{animation:pulse 5s ease-in-out infinite}@keyframes pulse{0%{transform:translateX(0)}100%{transform:translateX(1300px)}}@media (prefers-reduced-motion: reduce){.sweep{display:none}.blink,.pulse{animation:none}}
+</style>
+<defs>
+<pattern id="fg" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#fff" stroke-opacity=".055"/></pattern><linearGradient id="ff" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fff"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient><mask id="fm"><rect width="1000" height="280" fill="url(#ff)"/></mask>
+<linearGradient id="pu" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#FF2A4D" stop-opacity="0"/><stop offset=".7" stop-color="#FF2A4D"/><stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/></linearGradient>
+<clipPath id="lc"><rect x="0" y="236" width="1000" height="4"/></clipPath>
+</defs>
+<rect width="1000" height="280" fill="#09090B"/>
+<rect width="1000" height="280" fill="url(#fg)" mask="url(#fm)"/>
+<text x="60" y="140" font-size="96" font-weight="800" letter-spacing="-3" fill="#ECECF1">Still compiling.</text>
+<text class="m" x="64" y="190" font-size="22" fill="#8B8B9A">Hossein Kouhgard, Shahrekord, Iran</text>
+<line x1="0" y1="238" x2="1000" y2="238" stroke="#2A2A33" stroke-width="1.5"/>
+<g clip-path="url(#lc)"><rect class="pulse" x="-300" y="236" width="300" height="4" fill="url(#pu)"/></g>
+</svg>
