@@ -1,84 +1,63 @@
-<p align="center">
-  <img src="./assets/profile-banner.svg" alt="Hossein Kouhgard — Frontend Developer" width="100%" />
-</p>
+<img src="./assets/hero.svg" alt="Hossein Kouhgard, Frontend Developer. Large name on a dark grid background with a small code snippet and a typed role line." width="100%">
 
-<p align="center">
-  <a href="https://github.com/hossein-kohgard">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3200&pause=1000&color=FB7185&center=true&vCenter=true&width=620&height=42&lines=Building+for+the+web;Learning+JavaScript+deeply;Turning+designs+into+interfaces" alt="Animated developer introduction" />
-  </a>
-</p>
+<br>
 
-<p align="center">
-  <a href="https://github.com/hossein-kohgard?tab=repositories">Repositories</a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/hossein-kohgard">GitHub</a>
-  &nbsp;·&nbsp;
-  <a href="https://instagram.com/artcode.bot">Instagram</a>
-</p>
+<img src="./assets/section-about.svg" alt="About" width="100%">
 
----
+I'm Hossein, a frontend developer from Shahrekord, Iran, and a Computer Science student at Payame Noor University.
 
-### `01 — A little about me`
+I build web interfaces with HTML, CSS and JavaScript, and I care about how they look and behave on every screen size. I'm still early in my modern frontend journey, so right now I'm strengthening my JavaScript fundamentals and learning by building small, practical projects before reaching for bigger tools.
 
-I'm **Hossein**, a frontend developer focused on the craft of building clear, responsive, and thoughtful web interfaces.
+<br>
 
-I enjoy the intersection of **design and code**: taking a visual idea, understanding its structure, and turning it into a working experience.
+<img src="./assets/section-stack.svg" alt="Stack" width="100%">
 
-- Currently sharpening my JavaScript fundamentals and frontend workflow.
-- Learning by building, debugging, and refining real projects.
-- Interested in UI implementation, responsive design, and AI-assisted development.
-- I value readable code, attention to detail, and steady progress.
+<img src="./assets/stack.svg" alt="Technology stack. Markup and logic: HTML5, CSS3, JavaScript. Styling: Sass, Tailwind CSS. Workflow: Git, GitHub. Design: Figma, Photoshop." width="100%">
 
-### `02 — Tools I work with`
+<br>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,sass,git,github,vscode,figma,ps&theme=dark" alt="HTML, CSS, JavaScript, Tailwind CSS, Sass, Git, GitHub, VS Code, Figma and Photoshop" />
-</p>
+<img src="./assets/section-projects.svg" alt="Projects" width="100%">
 
-### `03 — Selected work`
+<a href="https://github.com/hossein-kohgard/tech-store">
+  <img src="./assets/project-tech-store.svg" alt="tech-store: a tech store interface built to practice page layout and responsive design. Open the repository." width="100%">
+</a>
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <strong><a href="https://github.com/hossein-kohgard/tech-store">VOLTAIC · Tech Store</a></strong><br/>
-      A Persian RTL storefront concept for gaming gear, with a product-focused landing page and responsive navigation.<br/><br/>
-      <sub>HTML · CSS · Responsive UI · Collaboration</sub>
-    </td>
-    <td width="50%" valign="top">
-      <strong><a href="https://github.com/hossein-kohgard/guess-my-number">Guess My Number</a></strong><br/>
-      A browser game built around random numbers, player feedback, score tracking, and replay states.<br/><br/>
-      <sub>HTML · CSS · JavaScript · DOM</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <strong><a href="https://github.com/hossein-kohgard/profile-card">Interactive Profile Card</a></strong><br/>
-      A compact profile card with a simple JavaScript interaction to reveal and hide contact details.<br/><br/>
-      <sub>HTML · CSS · JavaScript · DOM</sub>
-    </td>
-    <td width="50%" valign="top">
-      <strong><a href="https://github.com/hossein-kohgard/excursion">Excursion</a></strong><br/>
-      A travel landing-page exercise featuring a looping video and a simple content-led layout.<br/><br/>
-      <sub>HTML · CSS · Media</sub>
-    </td>
-  </tr>
-</table>
+<a href="https://github.com/hossein-kohgard/guess-my-number">
+  <img src="./assets/project-guess-my-number.svg" alt="guess-my-number: a number guessing game that practises JavaScript logic and updating the page. Open the repository." width="100%">
+</a>
 
-### `04 — Currently improving`
+<a href="https://github.com/hossein-kohgard/profile-card">
+  <img src="./assets/project-profile-card.svg" alt="profile-card: a profile card built to practise HTML and CSS layout and styling. Open the repository." width="100%">
+</a>
 
-- **JavaScript:** functions, arrays, objects, DOM, and problem solving.
-- **Frontend:** responsive layouts, reusable UI patterns, and accessibility basics.
-- **Workflow:** Git, GitHub, debugging, and shipping finished projects.
+<a href="https://github.com/hossein-kohgard/excursion">
+  <img src="./assets/project-excursion.svg" alt="excursion: an excursion-themed web page built to practise layout and responsive sections. Open the repository." width="100%">
+</a>
 
-### `05 — GitHub activity`
+<br>
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=hossein-kohgard&show_icons=true&hide_border=true&bg_color=09090F&title_color=FB7185&text_color=D4D4D8&icon_color=A78BFA&rank_icon=github" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hossein-kohgard&layout=compact&hide_border=true&bg_color=09090F&title_color=FB7185&text_color=D4D4D8" alt="Most used languages" />
-</p>
+<img src="./assets/section-focus.svg" alt="Current focus" width="100%">
 
----
+<img src="./assets/focus.svg" alt="Current focus: JavaScript fundamentals, frontend development, responsive interfaces, practical project development, and Git and GitHub workflow." width="100%">
 
-<p align="center">
-  <sub>Designed with intention. Built one iteration at a time.</sub>
-</p>
+<br>
+
+<img src="./assets/section-activity.svg" alt="Activity" width="100%">
+
+The commits are the record. Everything I've built so far is public in [my repositories](https://github.com/hossein-kohgard?tab=repositories), and the full contribution graph is on my [GitHub profile](https://github.com/hossein-kohgard).
+
+<br>
+
+<img src="./assets/section-contact.svg" alt="Contact" width="100%">
+
+<a href="https://github.com/hossein-kohgard">
+  <img src="./assets/contact-github.svg" alt="GitHub: github.com/hossein-kohgard" width="100%">
+</a>
+
+<a href="https://instagram.com/artcode.bot">
+  <img src="./assets/contact-instagram.svg" alt="Instagram: instagram.com/artcode.bot" width="100%">
+</a>
+
+<br>
+
+<img src="./assets/footer.svg" alt="Still compiling. Hossein Kouhgard, Shahrekord, Iran." width="100%">
